@@ -57,3 +57,7 @@ For more information on SemVer, please visit [http://semver.org/](http://semver.
 ## Copyright and license
 
 Copyright 2013 Mark Otto, Inc under [the MIT license](LICENSE).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/payador/bootstrap-examples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
